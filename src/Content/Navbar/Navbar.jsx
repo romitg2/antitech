@@ -85,7 +85,7 @@ const Logo = () => (
 
 const Links = () => (
   <div className="hidden items-center gap-2 md:flex">
-    <GlassLink text="Portfolio" />
+    <GlassLink text="About" />
     <GlassLink text="Services" />
     <GlassLink text="Technologies" />
   </div>

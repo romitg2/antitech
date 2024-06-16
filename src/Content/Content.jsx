@@ -10,10 +10,9 @@ function Content() {
     <>
       <Hero />
       <WhatWeOffer />
-      <Stats />
-
       <Testimonials />
-      <Projects />
+      <Stats />
+      {/* <Projects /> */}
       {/* <WhyUs /> */}
     </>
   );

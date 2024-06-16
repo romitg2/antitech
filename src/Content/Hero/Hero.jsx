@@ -29,7 +29,7 @@ const Hero = () => {
             <Reveal>
               <p className="pointer-events-auto max-w-xl text-sm text-slate-300 md:text-base">
                 At AntiTech Solutions, we specialize in full stack development,
-                game development, web and app development, and more. With over 5
+                game development, web and app development, and more. With 5+
                 years of experience, our expert team is dedicated to delivering
                 top-tier tech solutions tailored to your needs. Let us help you
                 bring your vision to life.
